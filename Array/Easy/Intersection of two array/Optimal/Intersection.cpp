@@ -31,7 +31,7 @@ public:
    return c;
 }
 };
-nt main() {
+int main() {
     Solution solution;
     vector<int> nums1 = {1, 2, 2, 1};
     vector<int> nums2 = {2, 2};
